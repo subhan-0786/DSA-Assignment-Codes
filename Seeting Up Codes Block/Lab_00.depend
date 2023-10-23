@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1695892932 source:d:\lab_00\lab_00\src\pencil.cpp
+	<iostream>
+	"Pencil.h"
+
+1695893686 d:\lab_00\lab_00\include\pencil.h
+	<string>
+
